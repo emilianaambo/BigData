@@ -3,3 +3,8 @@ The following project provides 3 notebooks of 3 different datasets that I have w
 Note: Everything was done using jupyter notebook.
 
 The notebooks are as follows:
+- Sensor Data.ipynb
+- CryptoCurrency.ipynb
+- Iris data.ipynb
+
+Alternatively, All contents of the project e.g data, file to retrieve the data etc are within the folder: dataem/
