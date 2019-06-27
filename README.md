@@ -7,4 +7,4 @@ The notebooks are as follows:
 - CryptoCurrency.ipynb
 - Iris data.ipynb
 
-Alternatively, All contents of the project e.g data, file to retrieve the data etc are within the folder: dataem/
+Alternatively, All contents of the project e.g data files, file to retrieve the data, notebooks etc are within the folder: dataem/
